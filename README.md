@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a summary of things I've learned about HTML.
+This is the first summary of the things I've learned about HTML through The Odin Project.
